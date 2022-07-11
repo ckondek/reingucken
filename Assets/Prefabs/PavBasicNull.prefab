@@ -142,6 +142,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: PavWallNull
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+=======
+    - target: {fileID: 5225445073286938151, guid: 5f66cb8099a434a4bbb6864a307b27f3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.96
+      objectReference: {fileID: 0}
+>>>>>>> 2a14b71 (monday nnight)
     - target: {fileID: 5226406639870326418, guid: 5f66cb8099a434a4bbb6864a307b27f3, type: 3}
       propertyPath: m_RootOrder
       value: 2

@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Saturday
+  productName: monday2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -155,11 +155,13 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 4800000, guid: e7c77f6eaab324a819efdc13b8125a39, type: 3}
   - {fileID: 0}
-  - {fileID: 2357905397916732084, guid: dfd7a96700adf4284af3f31971319d00, type: 2}
-  - {fileID: 11400000, guid: 5941af8068f414d3d96fb0cb6c98c1c0, type: 2}
-  - {fileID: -7163655127225612244, guid: d3f3ac2e5b5344e4d9c2bf13dea06212, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -180,7 +182,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Standalone: com.DefaultCompany.ReinGucken
-    iPhone: com.DefaultCompany.Saturday
+    iPhone: com.DefaultCompany.monday2
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -826,7 +828,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     Android: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    Standalone: CROSS_PLATFORM_INPUT
+    Standalone: CROSS_PLATFORM_INPUT;DREAMTECK_SPLINES;FLORA_PRESENT;GAIA_2_PRESENT;GAIA_PRO_PRESENT;GAIA_MESH_PRESENT
     WebGL: DREAMTECK_SPLINES;FLORA_PRESENT;GAIA_2_PRESENT;GAIA_PRO_PRESENT;GAIA_MESH_PRESENT
     Windows Store Apps: MOBILE_INPUT
     iPhone: UNITY_XR_ARKIT_LOADER_ENABLED;DREAMTECK_SPLINES;FLORA_PRESENT;GAIA_2_PRESENT;GAIA_PRO_PRESENT;GAIA_MESH_PRESENT;CROSS_PLATFORM_INPUT;MOBILE_INPUT
