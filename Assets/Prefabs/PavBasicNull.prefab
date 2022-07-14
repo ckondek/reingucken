@@ -138,6 +138,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8614019689268361790}
     m_Modifications:
+    - target: {fileID: 1276681825089284666, guid: 5f66cb8099a434a4bbb6864a307b27f3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1276681825089284666, guid: 5f66cb8099a434a4bbb6864a307b27f3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1276681825089284666, guid: 5f66cb8099a434a4bbb6864a307b27f3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.94
+      objectReference: {fileID: 0}
     - target: {fileID: 1643392013666406206, guid: 5f66cb8099a434a4bbb6864a307b27f3, type: 3}
       propertyPath: m_Name
       value: PavWallNull
