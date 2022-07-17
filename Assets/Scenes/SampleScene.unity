@@ -541,7 +541,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   picturePrefabs:
-  - {fileID: 1276141744363491325, guid: ac3ac9df70f3442f588dc9603f6ff1e8, type: 3}
+  - {fileID: 4476844849457903775, guid: 116d7aad30aaf4715bb09b4fc87ac07f, type: 3}
+  - {fileID: 4736161370901560429, guid: 2c85e714388264f6085fe5cb7ac3075a, type: 3}
 --- !u!114 &1082062808
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -578,7 +579,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1082062806}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.006003699, y: 0.019823533, z: 0.0027110297}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
